@@ -1,7 +1,10 @@
-data
+data/*
+!data/.gitignore
 venv
 docker-compose.yml
 Dockerfile
 requirements.txtdebug.log
 .idea
-media
+media/*
+!media/default.jpg
+!media/.gitignore
