@@ -1,0 +1,5 @@
+data
+venv
+docker-compose.yml
+Dockerfile
+requirements.txt
