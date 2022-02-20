@@ -1,0 +1,7 @@
+data
+venv
+docker-compose.yml
+Dockerfile
+requirements.txtdebug.log
+.idea
+media
